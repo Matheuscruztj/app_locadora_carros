@@ -1,0 +1,8 @@
+php artisan make:model --migration --controller --resource Marca
+
+php artisan make:model -mcr Modelo
+
+migration + controller + resource seeder + factory
+php artisan make:model --all Carro
+
+php artisan make:model -a Cliente
